@@ -1,3 +1,21 @@
-html {
-    background: blue
+/* #first{
+    color:red;
+    font-size: 30px;
 }
+
+#second{
+    color:green;
+    background-color: black;
+} */
+
+.first {
+    color:yellow;
+    background:red;
+    background-color: red;
+
+}
+/* 
+body {
+    color:blue;
+
+} */
